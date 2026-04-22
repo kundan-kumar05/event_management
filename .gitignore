@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+build/
+dist/
+.vscode/
+client/node_modules/
+server/node_modules/
+client/build/
+.gemini/
